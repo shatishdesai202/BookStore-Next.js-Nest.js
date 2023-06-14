@@ -22,13 +22,13 @@
  - Suitable Custom Scroll
 
 ## 👀 Screenshots 
-![Screenshot_8](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/802a2629-747d-4e7b-a9d0-41b12cc310bb)
+![Screenshot_8](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/b3281884-d279-47fd-8de0-26261d772d76)
 ___
-![Screenshot_1](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/646a5473-1291-4234-9ac1-40c8d2949649)
+![Screenshot_1](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/ca8c0c4f-91ac-4688-94e1-85f79b875afb)
 ___
-![Screenshot_2](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/94c66ccd-456d-4018-9521-dffc8ec9ffb9)
+![Screenshot_2](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/53044e9a-a316-46f8-b1da-9af4654e6496)
 ___
-![Screenshot_3](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/82a0d997-8599-431b-8043-08b3794d1ec1)
+![Screenshot_3](https://github.com/shatishdesai202/BookStore-Next.js-Nest.js/assets/66472172/bd10e93b-a5de-4b92-a2f2-deef019ca629)
 ___
 
 ## 🖧 Server 
